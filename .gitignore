@@ -1,0 +1,141 @@
+
+### PROJECT SPECIFIC ###
+*.dist
+*/log/*
+*/cache/*
+vendor/*
+bin/
+
+### WINDOWS ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# FOLDER CONFIG FILE
+Desktop.ini
+
+# RECYCLE BIN USED ON FILE SHARES
+$RECYCLE.BIN/
+
+# WINDOWS INSTALLER FILES
+*.cab
+*.msi
+*.msm
+*.msp
+
+# WINDOWS SHORTCUTS
+*.lnk
+
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ICON MUST END WITH TWO \r
+Icon
+
+# THUMBNAILS
+._*
+
+# FILES THAT MIGHT APPEAR IN THE ROOT OF A VOLUME
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# DIRECTORIES POTENTIALLY CREATED ON REMOTE AFP SHARE
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### VSCODE ###
+.vscode/
+
+### PHPSTORM ###
+# COVERS JETBRAINS IDES: INTELLIJ, RUBYMINE, PHPSTORM, APPCODE, PYCHARM, CLION, ANDROID STUDIO AND WEBSTORM
+*.iml
+
+
+## DIRECTORY-BASED PROJECT FORMAT:
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+# USER-SPECIFIC STUFF:
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries
+# .idea/shelf
+
+# SENSITIVE OR HIGH-CHURN FILES:
+# .idea/dataSources.ids
+# .idea/dataSources.xml
+# .idea/sqlDataSources.xml
+# .idea/dynamic.xml
+# .idea/uiDesigner.xml
+
+# GRADLE:
+# .idea/gradle.xml
+# .idea/libraries
+
+# MONGO EXPLORER PLUGIN:
+# .idea/mongoSettings.xml
+
+
+## FILE-BASED PROJECT FORMAT:
+*.ipr
+*.iws
+
+
+## PLUGIN-SPECIFIC FILES:
+
+# IntelliJ
+/out/
+
+# MPELTONEN/SBT-IDEA PLUGIN
+.idea_modules/
+
+# JIRA PLUGIN
+atlassian-ide-plugin.xml
+
+# CRASHLYTICS PLUGIN (FOR ANDROID STUDIO AND INTELLIJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+
+### SUBLIMETEXT ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
+# sftp configuration file
+sftp-config.json
+
+
+### Bower ###
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
+
+
+### COMPOSER ###
+# composer.phar
+composer.lock
+
+# FORCE FILES
+!.gitkeep

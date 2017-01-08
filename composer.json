@@ -1,0 +1,22 @@
+{
+    "name": "telekommander/kitten-world-domination",
+    "description": "Awesome kitten for world domination",
+    "homepage": "https://github.com/telekommander/kitten-world-domination",
+    "license": "MIT",
+    "type":         "project",
+    "keywords": ["flickr", "facebook", "kitten", "useless stream", "autopost", "stream", "bot", "cron", "kitten", "cat", "world domination"],
+    "authors": [
+        {
+            "name":     "",
+            "email":    "mail@lokalnetz.com",
+            "homepage": "http://lokalnetz.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "facebook/graph-sdk": "^5.4"
+    }
+}
