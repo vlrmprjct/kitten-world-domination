@@ -1,7 +1,7 @@
 <?php
 
 // WE NEED SOME TOKENS
-$flickrApiKey   = "YOUR FLICKR API KEY";
-$fbAppID        = "YOUR FB APP KEY";
-$fbAppSecret    = "YOUR FB APP SECRET";
-$fbAccessToken  = "YOUR FB PAGE ACCESS TOKEN";
+$flickrApiKey   = "e0ae49e50e2552a73b9af864292e7c19";
+$fbAppID        = "141727979657026";
+$fbAppSecret    = "8b3e1d71a36b6d9616a26eb2fa2b3b33";
+$fbAccessToken  = "EAACA5p3h10IBAKdZBztsBsEpwxw5RgYmwSuC3IPsG04IbdnHmHK9YOcBcWLf2p2GXnp5Y3sYZC4LkUjpZAEIhv3MmrS35m2RqqIKUhZBKHrIAKq6VRpOqlhk6ga9GAVHHXZCHsCr13SnLnzRDzPBHVrID9CJoWCkZD";
